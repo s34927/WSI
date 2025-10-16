@@ -1,1 +1,2 @@
 Dodanie readme
+edycja
